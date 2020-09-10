@@ -1,5 +1,6 @@
-package com.canyapan.sample.springopenapisample.controller;
+package com.canyapan.sample.springopenapisample.controller.impl;
 
+import com.canyapan.sample.springopenapisample.controller.EchoController;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

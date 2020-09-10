@@ -1,4 +1,4 @@
-package com.canyapan.sample.springopenapisample.controller;
+package com.canyapan.sample.springopenapisample.controller.impl;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
